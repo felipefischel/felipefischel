@@ -30,7 +30,7 @@ I'm Passionate about Web Development and Cloud Architecture.👨🏻‍💻
 ## Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/felipefischel/)
-- [Personal Website](https://www.felipefischel.com)
+- [Personal Website](https://www.felipe-fischel.com)
 
 <!--
 **felipefischel/felipefischel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
