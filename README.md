@@ -1,6 +1,6 @@
 # Hello! 👋🏻 
 ## My name is Felipe Fischel. 
-### Currently doing a Master in Computer Science and Business Technology @IE. Passionate about Web Development and Cloud Architecture.👨🏻‍💻
+### Currently doing a Master in Computer Science and Business Technology. Passionate about Web Development and Cloud Architecture.👨🏻‍💻
 
 - 🔭 I’m currently working on [Drive or Fly](https://driveorfly.io). <br>
 
