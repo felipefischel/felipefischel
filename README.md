@@ -3,7 +3,7 @@
 I'm doing a Master in Computer Science and Business Technology at IE University.
 I'm Passionate about Web Development and Cloud Architecture.👨🏻‍💻
 
-### - I’m currently working on  🚗✈️c [Drive or Fly](https://driveorfly.io). <br>
+### - I’m currently working on  🚗✈️  [Drive or Fly](https://driveorfly.io). <br>
 
 ## Other projects
 
@@ -11,6 +11,7 @@ I'm Passionate about Web Development and Cloud Architecture.👨🏻‍💻
 
 ### 🛠  Skills <br>
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 <img src="https://img.shields.io/badge/Python-231572B6?style=for-the-badge&logo=python&logoColor=white" title="Python" height="25" /> <img src="https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white" title="Ruby on Rails" height="25" /> <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5 logo" title="HTML5" height="25" /> <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3 logo" title="CSS3" height="25" /> <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="git logo" title="git" height="25" />  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="git logo" title="GitHub" height="25" /> <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" /> <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" title="Ruby" height="25" /> <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" title="SQLite" height="25" /> <img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" title="Bootstrap" height="25" />
 
 
