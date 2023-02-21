@@ -5,10 +5,6 @@ I'm Passionate about Web Development and Cloud Architecture.👨🏻‍💻
 
 ### - I’m currently working on  🚗✈️  [Drive or Fly](https://driveorfly.io). <br>
 
-## Other projects
-
-
-
 ### 🛠  Skills <br>
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
