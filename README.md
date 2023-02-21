@@ -26,6 +26,12 @@ I'm Passionate about Web Development and Cloud Architecture.👨🏻‍💻
 ![Cloud Run](https://img.shields.io/badge/Cloud_Run-000000?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
+
+## Connect with Me
+
+- [LinkedIn](https://www.linkedin.com/in/felipefischel/)
+- [Personal Website](https://www.felipefischel.com)
+
 <!--
 **felipefischel/felipefischel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
