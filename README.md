@@ -25,13 +25,13 @@ I'm Passionate about Web Development and Cloud Architecture.👨🏻‍💻
 
 ## Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipefischel/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:felipefischel@gmail.com)
-[![Personal Website](https://img.shields.io/badge/Personal_Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.felipe-fischel.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-fischel/){:target="_blank"}
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:felipefischel@gmail.com){:target="_blank"}
+[![Personal Website](https://img.shields.io/badge/Personal_Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.felipefischel.com){:target="_blank"}
 
-- [LinkedIn](https://www.linkedin.com/in/felipefischel/)
+- [LinkedIn](https://www.linkedin.com/in/felipe-fischel/)
 - [Email](https://www.linkedin.com/in/felipefischel/)
-- [Personal Website](https://www.felipe-fischel.com)
+- [Personal Website](https://www.felipefischel.com)
 
 <!--
 **felipefischel/felipefischel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
