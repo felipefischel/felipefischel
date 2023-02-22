@@ -29,10 +29,6 @@ I'm Passionate about Web Development and Cloud Architecture.👨🏻‍💻
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:felipefischel@gmail.com)
 [![Personal Website](https://img.shields.io/badge/Personal_Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.felipefischel.com)
 
-- [LinkedIn](https://www.linkedin.com/in/felipe-fischel/)
-- [Email](https://www.linkedin.com/in/felipefischel/)
-- [Personal Website](https://www.felipefischel.com)
-
 <!--
 **felipefischel/felipefischel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
