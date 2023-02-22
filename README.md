@@ -3,7 +3,7 @@
 I'm doing a Master in Computer Science and Business Technology at IE University.
 I'm Passionate about Web Development and Cloud Architecture.👨🏻‍💻
 
-### - I’m currently working on  🚗✈️  [Drive or Fly](https://driveorfly.io). <br>
+### I’m currently working on  🚗✈️  [Drive or Fly](https://driveorfly.io). <br>
 
 ### 🛠  Skills <br>
 
@@ -25,7 +25,12 @@ I'm Passionate about Web Development and Cloud Architecture.👨🏻‍💻
 
 ## Connect with Me
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipefischel/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:felipefischel@gmail.com)
+[![Personal Website](https://img.shields.io/badge/Personal_Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.felipe-fischel.com)
+
 - [LinkedIn](https://www.linkedin.com/in/felipefischel/)
+- [Email](https://www.linkedin.com/in/felipefischel/)
 - [Personal Website](https://www.felipe-fischel.com)
 
 <!--
