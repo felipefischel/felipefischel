@@ -25,6 +25,9 @@ I'm Passionate about Web Development and Cloud Architecture.👨🏻‍💻
 
 ## Connect with Me
 
+<a href="https://www.linkedin.com/in/YourUsername/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+
+
 <a href="https://www.linkedin.com/in/felipe-fischel/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-fischel/){:target="_blank"}
