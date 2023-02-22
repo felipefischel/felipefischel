@@ -1,6 +1,6 @@
 # Hi there, I'm Felipe! 👋🏻 
 
-I'm doing a Master in Computer Science and Business Technology at IE University.
+I'm doing a Master in Computer Science and Business Technology at IE University.  <br>
 I'm Passionate about Web Development and Cloud Architecture.👨🏻‍💻
 
 ### I’m currently working on  🚗✈️  [Drive or Fly](https://driveorfly.io). <br>
