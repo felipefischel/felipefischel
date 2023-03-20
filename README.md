@@ -20,8 +20,8 @@ I'm Passionate about Web Development and Cloud Architecture.👨🏻‍💻
 ![Adobe Illustrator](https://img.shields.io/badge/Adobe_Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=white)
 ![Google Cloud Platform](https://img.shields.io/badge/Google_Cloud_Platform-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Cloud Run](https://img.shields.io/badge/Cloud_Run-000000?style=for-the-badge&logo=google-cloud&logoColor=white)
-![App Engine](https://img.shields.io/badge/Cloud_Run-000000?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Cloud Functions](https://img.shields.io/badge/Cloud_Run-000000?style=for-the-badge&logo=google-cloud&logoColor=white)
+![App Engine](https://img.shields.io/badge/App_Engine-000000?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Cloud Functions](https://img.shields.io/badge/Cloud_Functions-000000?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 
