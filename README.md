@@ -5,6 +5,8 @@ I'm Passionate about Web Development and Cloud Architecture.👨🏻‍💻
 
 ### I’m currently working on 🚗✈️ <a href="https://driveorfly.io" target="_blank">Drive or Fly</a> and 🎵🎧<a href="https://guessthemusic.com" target="_blank">Guess The Music</a>. <br>
 
+I’m currently working on 🚗✈️ Drive or Fly and 🎵🎧 Guess The Music <br>
+
 ## 🛠  Skills 
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
