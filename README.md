@@ -3,9 +3,7 @@
 I'm doing a Master in Computer Science and Business Technology at IE University.  <br><br>
 I'm Passionate about Web Development and Cloud Architecture.👨🏻‍💻
 
-### I’m currently working on 🚗✈️ <a href="https://driveorfly.io" target="_blank">Drive or Fly</a> and 🎵🎧<a href="https://guessthemusic.com" target="_blank">Guess The Music</a>. <br>
-
-I’m currently working on 🚗✈️ Drive or Fly and 🎵🎧 Guess The Music <br>
+### I’m currently working on 🚗✈️ [Drive or Fly](http://driveorfly.io) and 🎵🎧 [Guess The Music](http://guessthemusic.com) <br>
 
 ## 🛠  Skills 
 
