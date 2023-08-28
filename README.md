@@ -1,9 +1,8 @@
 # Hi there, I'm Felipe! 👋🏻 
 
-I'm doing a Master in Computer Science and Business Technology at IE University.  <br><br>
-I'm Passionate about Web Development and Cloud Architecture.👨🏻‍💻
-
-### I’m currently working on 🚗✈️ [Drive or Fly](http://driveorfly.io) and 🎵🎧 [Guess The Music](http://guessthemusic.com) <br>
+Solutions Engineer at Cloudflare.  <br><br>
+Master in Computer Science and Business Technology from IE University.  <br><br>
+I'm Passionate about Web Development.👨🏻‍💻
 
 ## 🛠  Skills 
 
