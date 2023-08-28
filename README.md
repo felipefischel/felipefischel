@@ -2,7 +2,7 @@
 
 Solutions Engineer at Cloudflare.  <br><br>
 Master in Computer Science and Business Technology from IE University.  <br><br>
-I'm Passionate about Web Development.👨🏻‍💻
+Passionate about Web Development.👨🏻‍💻
 
 ## 🛠  Skills 
 
