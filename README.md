@@ -1,6 +1,5 @@
 # Hi there, I'm Felipe! 👋🏻 
 
-Solutions Engineer at Cloudflare.  <br><br>
 Master in Computer Science.  <br><br>
 
 
